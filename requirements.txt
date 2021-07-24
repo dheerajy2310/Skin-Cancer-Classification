@@ -1,0 +1,9 @@
+Flask
+Flask-Session
+gunicorn
+requests
+numpy
+Werkzeug
+tensorflow-cpu
+scikit-image
+scikit-learn
